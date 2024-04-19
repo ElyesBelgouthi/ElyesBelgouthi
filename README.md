@@ -1,34 +1,23 @@
-# Hi there, I'm Samer Mansouri 👋
+# Elyes Belgouthi 👋
 
 I'm a Software Engineering Student at the National Institute of Applied Science and Technology (INSAT), passionate about building and exploring new technologies. I'm currently diving deep into web development, focusing on both front-end and back-end technologies to create seamless, efficient, and impactful software solutions.
 
 ## 📚 Education
 
-- **Bachelor's Degree in Computer Sciences**
-- **Software Engineering Student** at INSAT (National Institute of Applied Science and Technology)
+- **Bachelor's Degree in Software Engineering Student**
+  at INSAT (National Institute of Applied Science and Technology)
 
 ## 🌱 I’m currently learning
 
 - Full Stack Web Development
+- Mobile Development
 - Cloud Computing and DevOps
-
-
-## 💬 Ask me about
-
-- Web Development 
-- My journey as a Software Engineering student
-- Tips on managing college and coding
+- Competitive Programming
 
 ## 📫 How to reach me:
 
-- LinkedIn: [Samer Mansouri](https://tn.linkedin.com/in/samer-mansouri)
-- Email: samermns24@gmail.com
-
-## ⚡ Fun fact:
-
-- I'm passionate about exploring new technologies and applying them in real-world projects. In my free time, I enjoy reading posts and blogs about the latest tech trends and innovations to stay ahead in the fast-paced tech landscape.
-
----
+- LinkedIn: [[Elyes Belgouthi]](https://www.linkedin.com/in/elyes-belgouthi-16450b226/)
+- Email:belgouthi.elyes.2002@gmail.com
 
 ### Programming Languages
 
