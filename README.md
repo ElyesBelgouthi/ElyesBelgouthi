@@ -19,45 +19,37 @@ I'm a Software Engineering Student at the National Institute of Applied Science 
 - LinkedIn: [[Elyes Belgouthi]](https://www.linkedin.com/in/elyes-belgouthi-16450b226/)
 - Email:belgouthi.elyes.2002@gmail.com
 
-### Programming Languages
+## Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![C](https://img.shields.io/badge/-C-000?&logo=c)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
+## Frontend Development
+![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?style=for-the-badge&logo=tailwind-css)
 
-### Frontend Development
+## Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
 
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=sass)
-![Ant Design](https://img.shields.io/badge/-Ant_Design-000?&logo=ant-design)
+## Backend Development
+![NestJS](https://img.shields.io/badge/-NestJS-red?style=for-the-badge&logo=nestjs)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green?style=for-the-badge&logo=spring)
+![Symfony](https://img.shields.io/badge/-Symfony-black?style=for-the-badge&logo=symfony)
+![RESTful API](https://img.shields.io/badge/-RESTful_API-green?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=for-the-badge&logo=graphql)
 
+## Database Management
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MS SQL](https://img.shields.io/badge/-MS_SQL-blue?style=for-the-badge&logo=microsoft-sql-server)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
 
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
-![Django](https://img.shields.io/badge/-Django-000?&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=fastapi&logoColor=white)
-
-
-### Database Technologies
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
-
-### Version Control & CI/CD
-
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab)
+## Version Control
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
