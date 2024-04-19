@@ -55,14 +55,3 @@ I'm a Software Engineering Student at the National Institute of Applied Science 
 ## Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-## Database Management
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MS SQL](https://img.shields.io/badge/-MS_SQL-blue?style=for-the-badge&logo=microsoft-sql-server)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
-
-## Version Control
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
