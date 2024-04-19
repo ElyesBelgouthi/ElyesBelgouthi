@@ -19,10 +19,8 @@ I'm a Software Engineering Student at the National Institute of Applied Science 
 - LinkedIn: [[Elyes Belgouthi]](https://www.linkedin.com/in/elyes-belgouthi-16450b226/)
 - Email:belgouthi.elyes.2002@gmail.com
 
-# My GitHub Readme
-
 ## Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
